@@ -16,7 +16,7 @@ public class AllThatImLivingFor {
 			+ "39i 46i 51i 51+56q Rq | "
 			+ "39i 46i 51i 51+54q Rq | " 
 			+ "39i 46i 51i 46i 53i 54i 53i 49i | " 
-			+ "35i 42i 47+49i 49+54q Rq | "
+			+ "35i 42i 47i 49+54q Rq | "
 			+ "35i 42i 47+51i 47+51+59q Rq | "
 		//@formatter:on
 		);
