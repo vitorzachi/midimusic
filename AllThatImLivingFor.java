@@ -7,7 +7,6 @@ import org.jfugue.player.Player;
  *
  */
 public class AllThatImLivingFor {
-	static final int ADICAO_OITAVA = 4;
 	public static void main(String[] args) {
 		Player player = new Player();
 		
