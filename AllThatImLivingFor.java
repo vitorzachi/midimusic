@@ -7,18 +7,22 @@ import org.jfugue.player.Player;
  *
  */
 public class AllThatImLivingFor {
+	static final int ADICAO_OITAVA = 4;
 	public static void main(String[] args) {
 		Player player = new Player();
 		
 		//@formatter:off
 		player.play("V0 I[Piano] " 
-			+ "39i 46i 51i 51+58q Rq | "
-			+ "39i 46i 51i 51+56q Rq | "
-			+ "39i 46i 51i 51+54q Rq | " 
+			+ "39i 46i 51i 58q Rq | "
+			+ "39i 46i 51i 56q Rq | "
+			+ "39i 46i 51i 54q Rq | " 
 			+ "39i 46i 51i 46i 53i 54i 53i 49i | " 
-			+ "35i 42i 47i 49+54q Rq | "
-			+ "35i 42i 47+51i 47+51+59q Rq | "
-		//@formatter:on
+			+ "35i 42i 47i 54q Rq | "
+			+ "35i 42i 47i 59q Rq | "
+			+ "35i 42i 47i 58q Rq | "
+			+ "35i 42i 47i 56q Rq | "
+		
+//		@formatter:on
 		);
 	}
 }
